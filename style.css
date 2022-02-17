@@ -1,0 +1,23 @@
+body {
+  background: #923;
+  font-size: 35px;
+  color: #324;
+  font-style: Arial;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+p {
+  color: chartreuse;
+}
+
+.jeden {
+  color: blue;
+}
+
+.dwa {
+  color: bisque;
+}
